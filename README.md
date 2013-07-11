@@ -1,4 +1,4 @@
 sourcelair
 ==========
 
-Just to test the sourcelair.com IDE
+Just to learn the sourcelair.com IDE
